@@ -1,34 +1,44 @@
 # Details
 
-## About
+### About
 
 This is a customer churn analysis, this is to identify and understand the factors that contribute to customers stopping doing business with the bank. In other to know how to put in place plans to retain customers and reduce turnover
 
-## Purposes of the Project
+### Table of Contents
+- [Purposes of the Project](purposes-of-the-project)
+- [Tool](tool)
+- [Analysis List](analysis-list)
+- [Approach Used](approach-used)
+- [Generic Questions](generic-questions)
+- [Generic Answers](generic-answers)
+
+### Purposes of the Project
 
 The major aim of the project is to gain insight into the bank customers’ information and understand the different factors that affect the customers to make the decisions of leaving or staying.
 
-## Tools
+### Tools
 - SQL Database - Data Cleaning and sorting
 - Excel - Visualization
 
-## Analysis List
+### Analysis List
 
-### 1. Bank Analysis
-Analyze the customer’s transactions to understand more and to gain insight into their activities and relationship with the bank, to also know which account is active or not.
+1. Bank Analysis
+   
+   Analyze the customer’s transactions to understand more and to gain insight into their activities and relationship with the bank, to also know which account is active or not.
 
-### 2. Customer Analysis
-This analysis aims to uncover the different customer segments, their surnames, years of engagement products, and the commitment of each customer to the bank over their different years of registering with the bank
+2. Customer Analysis
 
-## Approach Used
+   This analysis aims to uncover the different customer segments, their surnames, years of engagement products, and the commitment of each customer to the bank over their different years of registering with the bank
 
-### Data cleaning: 
+### Approach Used
+
+1. Data cleaning:
 This is the first step where inspection of data is done to make sure NULL values and missing values are detected and data replacement methods are used to replace missing or NULL values.
 - Build a database
 - Create a table and insert the data.
 - Select columns with null values in them. There are no null values in our database as in creating the tables, we set NOT NULL for each field, hence null values are filtered out.
 
-### Feature Engineering: 
+2. Feature Engineering:
 This will help us generate some new columns from existing ones.
 - Add a new column named `ActiveStatus` to give insight into the active customers and those that are not. This will help answer the question of which account still banks with them
 - Add a new column named `CrCardCategory` This column helps us to know which customer is a credit card holder and which is not a credit card holder.
@@ -38,10 +48,10 @@ This will help us generate some new columns from existing ones.
 - Add a new column named `Location` this is basically to know the geographical location of each customer
 - Add a new column named `CrdMeasure` this is to know each customer's performance based on their credit data/details, it helps banks to know each of their customers well and how to appreciate them well in the future.
 
-### Exploratory Data Analysis (EDA):
+3. Exploratory Data Analysis (EDA):
 Exploratory data analysis is done to answer the listed questions and aims of this project.
 
-### Generic Question:
+### Generic Questions:
 1.	Count of customers
 2.	Average balance
 3.	Average salary
@@ -55,3 +65,13 @@ Exploratory data analysis is done to answer the listed questions and aims of thi
 4.	Average Tenure = 4.918
 5.	Female count = 467
 6.	Female ratio = 214%
+
+### Further questions with visualizations
+- How many unique customers does the data have?
+- How many unique customer types does the data have using CrdMeasures?
+- How many unique payment methods does the data have?
+- How many Active customers does the data have?
+- What is the most common customer type?
+- Which Gender/Sex is most active?
+- What is the gender of most of the customers?
+- What is the gender distribution per Location?
