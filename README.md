@@ -8,6 +8,10 @@ This is a customer churn analysis, this is to identify and understand the factor
 
 The major aim of the project is to gain insight into the bank customers’ information and understand the different factors that affect the customers to make the decisions of leaving or staying.
 
+## Tools
+- SQL Database - Data Cleaning and sorting
+- Excel - Visualization
+
 ## Analysis List
 
 ### 1. Bank Analysis
