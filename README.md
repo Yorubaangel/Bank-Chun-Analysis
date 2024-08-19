@@ -5,12 +5,12 @@
 This is a customer churn analysis, this is to identify and understand the factors that contribute to customers stopping doing business with the bank. In other to know how to put in place plans to retain customers and reduce turnover
 
 ### Table of Contents
-- [Purposes of the Project](purposes-of-the-project)
-- [Tool](tool)
-- [Analysis List](analysis-list)
-- [Approach Used](approach-used)
-- [Generic Questions](generic-questions)
-- [Generic Answers](generic-answers)
+- [Purposes of the Project](#purposes-of-the-project)
+- [Tool](#tool)
+- [Analysis List](#analysis-list)
+- [Approach Used](#approach-used)
+- [Generic Questions](#generic-questions)
+- [Generic Answers](#generic-answers)
 
 ### Purposes of the Project
 
