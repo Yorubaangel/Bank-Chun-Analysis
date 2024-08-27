@@ -67,11 +67,4 @@ Exploratory data analysis is done to answer the listed questions and aims of thi
 6.	Female ratio = 214%
 
 ### Further questions with visualizations
-- How many unique customers does the data have?
-- How many unique customer types does the data have using CrdMeasures?
-- How many unique payment methods does the data have?
-- How many Active customers does the data have?
-- What is the most common customer type?
-- Which Gender/Sex is most active?
-- What is the gender of most of the customers?
-- What is the gender distribution per Location?
+
