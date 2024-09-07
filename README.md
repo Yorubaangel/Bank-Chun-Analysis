@@ -72,3 +72,10 @@ Exploratory data analysis is done to answer the listed questions and aims of thi
 
 ![Desktop-screenshot (13)](https://github.com/user-attachments/assets/e8a33028-149e-4024-b184-b4fada18dc31)
 
+#### 1. Sex by Exit Category
+
+This shows the relationship between sex and exit category, this is to know which gender exits the bank the most and to also get the the gender with the highest number of the two genders that make up the bank customers.
+
+![image](https://github.com/user-attachments/assets/7c24e0d4-cde5-4dde-8748-d2e4cea291f0)
+
+From the above chart, it is seen that the bank has more male customers than female customers and also it shows that the rate of male customers leaving or exiting the bank is higher, and female customers are the highest customer retained.
