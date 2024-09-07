@@ -68,4 +68,7 @@ Exploratory data analysis is done to answer the listed questions and aims of thi
 6.	Female ratio = 214%
 
 ### Visualizations
+#### The Bank Churn Dashboard
+![Desktop-screenshot (13)](https://github.com/user-attachments/assets/e8a33028-149e-4024-b184-b4fada18dc31)
+
 
