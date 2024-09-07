@@ -6,11 +6,12 @@ This is a customer churn analysis, this is to identify and understand the factor
 
 ### Table of Contents
 - [Purposes of the Project](#purposes-of-the-project)
-- [Tool](#tool)
+- [Tool](#tools)
 - [Analysis List](#analysis-list)
 - [Approach Used](#approach-used)
 - [Generic Questions](#generic-questions)
 - [Generic Answers](#generic-answers)
+- [Visualizations](#visualizations)
 
 ### Purposes of the Project
 
@@ -66,5 +67,5 @@ Exploratory data analysis is done to answer the listed questions and aims of thi
 5.	Female count = 467
 6.	Female ratio = 214%
 
-### Further questions with visualizations
+### Visualizations
 
