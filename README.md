@@ -84,4 +84,4 @@ From the above chart, it is seen that the bank has more male customers than fema
 
 
 
-![image](https://github.com/user-attachments/assets/90df9301-c597-4013-ab26-f03c192c234f)
+![image](https://github.com/user-attachments/assets/257a306e-1780-449d-9881-d20b145e56f6)
