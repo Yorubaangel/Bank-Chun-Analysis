@@ -80,4 +80,8 @@ This shows the relationship between sex and exit category, this is to know which
 
 From the above chart, it is seen that the bank has more male customers than female customers and also it shows that the rate of male customers leaving or exiting the bank is higher, and female customers are the highest customer retained.
 
-#### 2. 
+#### 2. Card Category by Credit Measures
+
+
+
+![image](https://github.com/user-attachments/assets/90df9301-c597-4013-ab26-f03c192c234f)
